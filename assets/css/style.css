@@ -5,7 +5,12 @@
 }
 
 
+/* FONTS */
 
+@font-face {
+  font-family: "Rajdhani-Medium";
+  src: url("../fonts/Rajdhani-Medium.ttf");
+}
 
 
 
@@ -93,7 +98,7 @@ a {
     font-weight: 300;
   }
 
-sup {
+.sup {
     font-family: 'Lato';
     font-style: normal;
     font-weight: 300;
@@ -281,14 +286,10 @@ sup {
 
 
 
-
-
-#mailme {
-  font-family: 'Space Mono';
-  font-style: normal;
-  font-weight: 700;
+.avcvz-links {
+  font-family: "Rajdhani-Medium";
   opacity: 0.6;
-  text-decoration: none;
+ 
 
 }
 
